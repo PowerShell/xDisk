@@ -78,7 +78,7 @@ function Set-TargetResource
 
 function Test-TargetResource
 {
-	[OutputType([System.Boolean])]
+    [OutputType([System.Boolean])]
     param
     (
         [parameter(Mandatory)]

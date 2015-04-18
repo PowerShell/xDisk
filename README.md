@@ -47,7 +47,7 @@ Configuration DataDisk
     
     Import-DSCResource -ModuleName xDisk
  
-    Node localhost'
+    Node localhost
     {
         xWaitforDisk Disk2
         {

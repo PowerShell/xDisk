@@ -30,7 +30,7 @@ The "x" in xDisk stands for experimental**, which means that these resources wil
 
 ## Versions
 
-### 0.1.0.0
+### 1.0
 
 *   Initial release with the following resources 
     *   xDisk

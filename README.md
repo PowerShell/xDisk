@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/g8n7j59gkdvk3efe/branch/master?svg=true)](https://ci.appveyor.com/project/PowerShell/xdisk/branch/master)
 
+#xDisk has been deprecated and replaced by [xStorage](http://github.com/powershell/xstorage)
+
 #xDisk
 
 The** xDisk** module is a part of the Windows PowerShell Desired State Configuration (DSC) Resource Kit, which is a collection of DSC Resources.
